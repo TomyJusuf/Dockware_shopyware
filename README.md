@@ -1,7 +1,7 @@
 ## Dockerware & Shopyware
 
-You can find many tutorial, but many of them had problem for you to load/starting the project.
-I found solutio with chatGTP.
+You can find many tutorial, but many of them had problem for you to load/starting the project?
+If yes, I found solution with chatGTP.
 
 Change the port/ports, it must be like that, here:
 
@@ -52,4 +52,3 @@ Here I share also good tutorial where you can learn:
 ---
 
 The cheatsheed is Created be Tomas Matusek.
-# Dockware_shopyware
