@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://schemas.shopware.com/schemas/plugin/1.0/plugin.xsd">
+  <meta>
+    <name>XgxFirstPlugin</name>
+    <label>XgxFirstPlugin</label>
+    <version>1.0.0</version>
+    <author>Your Name</author>
+    <copyright>Your Company</copyright>
+    <license>MIT</license>
+    <description>A new Shopware 6 plugin</description>
+    <link>https://example.com</link>
+  </meta>
+  <setup>
+    <serviceContainer>src/config/services.xml</serviceContainer>
+  </setup>
+</manifest>

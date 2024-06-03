@@ -1,0 +1,19 @@
+{
+  "name": "xerografix/xgx-first-plugin",
+  "description": "'A new Shopware 6 plugin'",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "XgxFirstPlugin\\": "src/"
+    }
+  },
+  "extra": {
+    "label": {
+      "de-DE": "XeroGrafix plugin",
+      "en-GB": "XeroGrafix plugin"
+    }
+  }
+}
