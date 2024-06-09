@@ -53,6 +53,6 @@ Here I share also good tutorial where you can learn:
 
 The cheatsheed is Created be Tomas Matusek.
 
-password generate:s!87nEYBWqfj
+
 
 docker exec -it bbecf51af4e1 bin/console
